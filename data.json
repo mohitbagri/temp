@@ -20,6 +20,26 @@
                     "value": "5"
                 }
             ]
+        },
+        {
+            "name": "tech",
+            "children": [
+                {
+                    "name": "fb",
+                    "category": "tech",
+                    "value": "5"
+                },
+                {
+                    "name": "amazon",
+                    "category": "tech",
+                    "value": "5"
+                },
+                {
+                    "name": "google",
+                    "category": "tech",
+                    "value": "5"
+                }
+            ]
         }
     ]
 }
