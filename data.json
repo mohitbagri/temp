@@ -1,0 +1,25 @@
+{
+    "name": "Reid Hoffman",
+    "children": [
+        {
+            "name": "general",
+            "children": [
+                {
+                    "name": "fitness",
+                    "category": "general",
+                    "value": "5"
+                },
+                {
+                    "name": "music",
+                    "category": "general",
+                    "value": "5"
+                },
+                {
+                    "name": "rituals",
+                    "category": "general",
+                    "value": "5"
+                }
+            ]
+        }
+    ]
+}
