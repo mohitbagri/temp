@@ -7,42 +7,42 @@
                 {
                     "name": "cancer",
                     "category": "health & relationships",
-                    "value": "5"
+                    "value": "1"
                 },
                 {
                     "name": "pandemic",
                     "category": "health & relationships",
-                    "value": "15"
+                    "value": "8"
                 },
                 {
                     "name": "personal-health",
                     "category": "health & relationships",
-                    "value": "5"
+                    "value": "1"
                 },
                 {
                     "name": "health-care",
                     "category": "health & relationships",
-                    "value": "5"
+                    "value": "3"
                 },
                 {
                     "name": "healthcare",
                     "category": "health & relationships",
-                    "value": "5"
+                    "value": "4"
                 },
                 {
                     "name": "love",
                     "category": "health & relationships",
-                    "value": "5"
+                    "value": "1"
                 },
                 {
                     "name": "dating",
                     "category": "health & relationships",
-                    "value": "5"
+                    "value": "1"
                 },
                 {
                     "name": "loneliness",
                     "category": "health & relationships",
-                    "value": "5"
+                    "value": "2"
                 }
             ]
         },
@@ -52,127 +52,127 @@
                 {
                     "name": "manufacturing",
                     "category": "retail",
-                    "value": "25"
+                    "value": "1"
                 },
                 {
                     "name": "retail",
                     "category": "retail",
-                    "value": "5"
+                    "value": "6"
                 },
                 {
                     "name": "advertising",
                     "category": "retail",
-                    "value": "5"
+                    "value": "2"
                 },
                 {
                     "name": "video-on-demand",
                     "category": "retail",
-                    "value": "5"
+                    "value": "1"
                 },
                 {
                     "name": "marketing",
                     "category": "retail",
-                    "value": "5"
+                    "value": "1"
                 },
                 {
                     "name": "movie-theaters",
                     "category": "retail",
-                    "value": "5"
+                    "value": "1"
                 },
                 {
                     "name": "online",
                     "category": "retail",
-                    "value": "5"
+                    "value": "2"
                 },
                 {
                     "name": "strategy",
                     "category": "retail",
-                    "value": "5"
+                    "value": "2"
                 },
                 {
                     "name": "automotive",
                     "category": "retail",
-                    "value": "5"
+                    "value": "1"
                 },
                 {
                     "name": "ecommerce",
                     "category": "retail",
-                    "value": "55"
+                    "value": "2"
                 },
                 {
                     "name": "e-commerce",
                     "category": "retail",
-                    "value": "5"
+                    "value": "2"
                 },
                 {
                     "name": "airlines",
                     "category": "retail",
-                    "value": "5"
+                    "value": "2"
                 },
                 {
                     "name": "pricing",
                     "category": "retail",
-                    "value": "5"
+                    "value": "3"
                 },
                 {
                     "name": "branding",
                     "category": "retail",
-                    "value": "5"
+                    "value": "3"
                 },
                 {
                     "name": "supply-chains",
                     "category": "retail",
-                    "value": "5"
+                    "value": "2"
                 },
                 {
                     "name": "platforms",
                     "category": "retail",
-                    "value": "5"
+                    "value": "4"
                 },
                 {
                     "name": "delivery",
                     "category": "retail",
-                    "value": "85"
+                    "value": "7"
                 },
                 {
                     "name": "customer-experience",
                     "category": "retail",
-                    "value": "5"
+                    "value": "1"
                 },
                 {
                     "name": "customer-feedback",
                     "category": "retail",
-                    "value": "5"
+                    "value": "1"
                 },
                 {
                     "name": "lifestyle-brand",
                     "category": "retail",
-                    "value": "5"
+                    "value": "1"
                 },
                 {
                     "name": "pricing-mistakes",
                     "category": "retail",
-                    "value": "5"
+                    "value": "1"
                 },
                 {
                     "name": "pricing-strategy",
                     "category": "retail",
-                    "value": "5"
+                    "value": "1"
                 },
                 {
                     "name": "customer-development",
                     "category": "retail",
-                    "value": "5"
+                    "value": "2"
                 },
                 {
                     "name": "business-resilience",
                     "category": "retail",
-                    "value": "5"
+                    "value": "1"
                 },
                 {
                     "name": "hourly-workers",
                     "category": "retail",
-                    "value": "5"
+                    "value": "1"
                 },
                 {
                     "name": "pivots",
@@ -187,42 +187,42 @@
                 {
                     "name": "competition",
                     "category": "networking/corportate life",
-                    "value": "5"
+                    "value": "2"
                 },
                 {
                     "name": "opportunities",
                     "category": "networking/corportate life",
-                    "value": "5"
+                    "value": "1"
                 },
                 {
                     "name": "interviewing",
                     "category": "networking/corportate life",
-                    "value": "5"
+                    "value": "1"
                 },
                 {
                     "name": "teams",
                     "category": "networking/corportate life",
-                    "value": "5"
+                    "value": "1"
                 },
                 {
                     "name": "mentorship",
                     "category": "networking/corportate life",
-                    "value": "5"
+                    "value": "4"
                 },
                 {
                     "name": "networking",
                     "category": "networking/corportate life",
-                    "value": "5"
+                    "value": "1"
                 },
                 {
                     "name": "learning",
                     "category": "networking/corportate life",
-                    "value": "5"
+                    "value": "1"
                 },
                 {
                     "name": "mentee",
                     "category": "networking/corportate life",
-                    "value": "5"
+                    "value": "2"
                 },
                 {
                     "name": "mentor",
@@ -232,72 +232,72 @@
                 {
                     "name": "trust",
                     "category": "networking/corportate life",
-                    "value": "5"
+                    "value": "2"
                 },
                 {
                     "name": "conflict",
                     "category": "networking/corportate life",
-                    "value": "5"
+                    "value": "1"
                 },
                 {
                     "name": "collaboration",
                     "category": "networking/corportate life",
-                    "value": "5"
+                    "value": "1"
                 },
                 {
                     "name": "connection",
                     "category": "networking/corportate life",
-                    "value": "5"
+                    "value": "2"
                 },
                 {
                     "name": "bridges",
                     "category": "networking/corportate life",
-                    "value": "5"
+                    "value": "1"
                 },
                 {
                     "name": "partnerships",
                     "category": "networking/corportate life",
-                    "value": "5"
+                    "value": "1"
                 },
                 {
                     "name": "co-evolution",
                     "category": "networking/corportate life",
-                    "value": "5"
+                    "value": "1"
                 },
                 {
                     "name": "human-connection",
                     "category": "networking/corportate life",
-                    "value": "5"
+                    "value": "2"
                 },
                 {
                     "name": "social-networks",
                     "category": "networking/corportate life",
-                    "value": "5"
+                    "value": "1"
                 },
                 {
                     "name": "mergers",
                     "category": "networking/corportate life",
-                    "value": "5"
+                    "value": "1"
                 },
                 {
                     "name": "hiring",
                     "category": "networking/corportate life",
-                    "value": "5"
+                    "value": "4"
                 },
                 {
                     "name": "layoffs",
                     "category": "networking/corportate life",
-                    "value": "5"
+                    "value": "1"
                 },
                 {
                     "name": "onboarding",
                     "category": "networking/corportate life",
-                    "value": "5"
+                    "value": "1"
                 },
                 {
                     "name": "acquisitions",
                     "category": "networking/corportate life",
-                    "value": "5"
+                    "value": "1"
                 }
             ]
         },
@@ -307,132 +307,132 @@
                 {
                     "name": "entrepreneur-first",
                     "category": "entrepreneurship",
-                    "value": "5"
+                    "value": "9"
                 },
                 {
                     "name": "raising-money",
                     "category": "entrepreneurship",
-                    "value": "5"
+                    "value": "2"
                 },
                 {
                     "name": "big-pivot",
                     "category": "entrepreneurship",
-                    "value": "5"
+                    "value": "2"
                 },
                 {
                     "name": "blitzsc",
                     "category": "entrepreneurship",
-                    "value": "5"
+                    "value": "2"
                 },
                 {
                     "name": "growth",
                     "category": "entrepreneurship",
-                    "value": "5"
+                    "value": "8"
                 },
                 {
                     "name": "big-impact",
                     "category": "entrepreneurship",
-                    "value": "5"
+                    "value": "1"
                 },
                 {
                     "name": "blitzscaling",
                     "category": "entrepreneurship",
-                    "value": "5"
+                    "value": "13"
                 },
                 {
                     "name": "data-insights",
                     "category": "entrepreneurship",
-                    "value": "5"
+                    "value": "1"
                 },
                 {
                     "name": "enlightened-hospitality",
                     "category": "entrepreneurship",
-                    "value": "5"
+                    "value": "1"
                 },
                 {
                     "name": "loans",
                     "category": "entrepreneurship",
-                    "value": "5"
+                    "value": "1"
                 },
                 {
                     "name": "small-business",
                     "category": "entrepreneurship",
-                    "value": "5"
+                    "value": "4"
                 },
                 {
                     "name": "start-ups",
                     "category": "entrepreneurship",
-                    "value": "5"
+                    "value": "4"
                 },
                 {
                     "name": "crowdsourcing",
                     "category": "entrepreneurship",
-                    "value": "5"
+                    "value": "3"
                 },
                 {
                     "name": "crowdfunding",
                     "category": "entrepreneurship",
-                    "value": "5"
+                    "value": "4"
                 },
                 {
                     "name": "business-model",
                     "category": "entrepreneurship",
-                    "value": "5"
+                    "value": "4"
                 },
                 {
                     "name": "investing",
                     "category": "entrepreneurship",
-                    "value": "5"
+                    "value": "2"
                 },
                 {
                     "name": "funding",
                     "category": "entrepreneurship",
-                    "value": "5"
+                    "value": "3"
                 },
                 {
                     "name": "startup-advice",
                     "category": "entrepreneurship",
-                    "value": "5"
+                    "value": "1"
                 },
                 {
                     "name": "businesses-behind-the-business",
                     "category": "entrepreneurship",
-                    "value": "5"
+                    "value": "1"
                 },
                 {
                     "name": "open-platforms",
                     "category": "entrepreneurship",
-                    "value": "5"
+                    "value": "4"
                 },
                 {
                     "name": "business-resilience",
                     "category": "entrepreneurship",
-                    "value": "5"
+                    "value": "1"
                 },
                 {
                     "name": "product-development",
                     "category": "entrepreneurship",
-                    "value": "5"
+                    "value": "2"
                 },
                 {
                     "name": "product-design",
                     "category": "entrepreneurship",
-                    "value": "5"
+                    "value": "1"
                 },
                 {
                     "name": "turnaround",
                     "category": "entrepreneurship",
-                    "value": "5"
+                    "value": "1"
                 },
                 {
                     "name": "rapid-response",
                     "category": "entrepreneurship",
-                    "value": "5"
+                    "value": "1"
                 },
                 {
                     "name": "big-idea",
                     "category": "entrepreneurship",
-                    "value": "5"
+                    "value": "1"
                 },
                 {
                     "name": "transformation",
@@ -442,12 +442,12 @@
                 {
                     "name": "second-act",
                     "category": "entrepreneurship",
-                    "value": "5"
+                    "value": "1"
                 },
                 {
                     "name": "scaling",
                     "category": "entrepreneurship",
-                    "value": "5"
+                    "value": "12"
                 },
                 {
                     "name": "pivots",
@@ -457,7 +457,7 @@
                 {
                     "name": "vc",
                     "category": "entrepreneurship",
-                    "value": "5"
+                    "value": "1"
                 }
             ]
         },
@@ -472,67 +472,67 @@
                 {
                     "name": "government",
                     "category": "political/social-causes",
-                    "value": "5"
+                    "value": "1"
                 },
                 {
                     "name": "diversity",
                     "category": "political/social-causes",
-                    "value": "5"
+                    "value": "7"
                 },
                 {
                     "name": "politics",
                     "category": "political/social-causes",
-                    "value": "5"
+                    "value": "1"
                 },
                 {
                     "name": "diversity",
                     "category": "political/social-causes",
-                    "value": "5"
+                    "value": "7"
                 },
                 {
                     "name": "activism",
                     "category": "political/social-causes",
-                    "value": "5"
+                    "value": "1"
                 },
                 {
                     "name": "unemployment",
                     "category": "political/social-causes",
-                    "value": "5"
+                    "value": "1"
                 },
                 {
                     "name": "gender",
                     "category": "political/social-causes",
-                    "value": "5"
+                    "value": "2"
                 },
                 {
                     "name": "nonprofits",
                     "category": "political/social-causes",
-                    "value": "5"
+                    "value": "4"
                 },
                 {
                     "name": "gender",
                     "category": "political/social-causes",
-                    "value": "5"
+                    "value": "2"
                 },
                 {
                     "name": "culture",
                     "category": "political/social-causes",
-                    "value": "5"
+                    "value": "9"
                 },
                 {
                     "name": "civic-engagement",
                     "category": "political/social-causes",
-                    "value": "5"
+                    "value": "1"
                 },
                 {
                     "name": "racial-justice",
                     "category": "political/social-causes",
-                    "value": "5"
+                    "value": "2"
                 },
                 {
                     "name": "social-impact",
                     "category": "political/social-causes",
-                    "value": "5"
+                    "value": "3"
                 }
             ]
         },
@@ -542,72 +542,72 @@
                 {
                     "name": "agriculture",
                     "category": "businesses/careers",
-                    "value": "5"
+                    "value": "9"
                 },
                 {
                     "name": "journalism",
                     "category": "businesses/careers",
-                    "value": "5"
+                    "value": "1"
                 },
                 {
                     "name": "real-estate",
                     "category": "businesses/careers",
-                    "value": "5"
+                    "value": "1"
                 },
                 {
                     "name": "celebrity",
                     "category": "businesses/careers",
-                    "value": "5"
+                    "value": "1"
                 },
                 {
                     "name": "gaming",
                     "category": "businesses/careers",
-                    "value": "5"
+                    "value": "1"
                 },
                 {
                     "name": "sports",
                     "category": "businesses/careers",
-                    "value": "5"
+                    "value": "1"
                 },
                 {
                     "name": "restaurants",
                     "category": "businesses/careers",
-                    "value": "5"
+                    "value": "3"
                 },
                 {
                     "name": "food",
                     "category": "businesses/careers",
-                    "value": "5"
+                    "value": "1"
                 },
                 {
                     "name": "travel",
                     "category": "businesses/careers",
-                    "value": "5"
+                    "value": "3"
                 },
                 {
                     "name": "transportation",
                     "category": "businesses/careers",
-                    "value": "5"
+                    "value": "2"
                 },
                 {
                     "name": "music",
                     "category": "businesses/careers",
-                    "value": "5"
+                    "value": "1"
                 },
                 {
                     "name": "telemedicine",
                     "category": "businesses/careers",
-                    "value": "5"
+                    "value": "1"
                 },
                 {
                     "name": "fitness",
                     "category": "businesses/careers",
-                    "value": "5"
+                    "value": "1"
                 },
                 {
                     "name": "screenwriting",
                     "category": "businesses/careers",
-                    "value": "5"
+                    "value": "1"
                 }
             ]
         },
@@ -617,62 +617,62 @@
                 {
                     "name": "perseverance",
                     "category": "personality traits",
-                    "value": "5"
+                    "value": "1"
                 },
                 {
                     "name": "simplicity",
                     "category": "personality traits",
-                    "value": "5"
+                    "value": "1"
                 },
                 {
                     "name": "creativity",
                     "category": "personality traits",
-                    "value": "5"
+                    "value": "1"
                 },
                 {
                     "name": "happiness",
                     "category": "personality traits",
-                    "value": "5"
+                    "value": "1"
                 },
                 {
                     "name": "resilience",
                     "category": "personality traits",
-                    "value": "5"
+                    "value": "22"
                 },
                 {
                     "name": "openness",
                     "category": "personality traits",
-                    "value": "5"
+                    "value": "1"
                 },
                 {
                     "name": "mindfulness",
                     "category": "personality traits",
-                    "value": "5"
+                    "value": "1"
                 },
                 {
                     "name": "prioritization",
                     "category": "personality traits",
-                    "value": "5"
+                    "value": "2"
                 },
                 {
                     "name": "experimentation",
                     "category": "personality traits",
-                    "value": "5"
+                    "value": "1"
                 },
                 {
                     "name": "uncertainty",
                     "category": "personality traits",
-                    "value": "5"
+                    "value": "1"
                 },
                 {
                     "name": "flexibility",
                     "category": "personality traits",
-                    "value": "5"
+                    "value": "1"
                 },
                 {
                     "name": "innovation",
                     "category": "personality traits",
-                    "value": "5"
+                    "value": "4"
                 },
                 {
                     "name": "meditation",
@@ -682,62 +682,62 @@
                 {
                     "name": "risk-taking",
                     "category": "personality traits",
-                    "value": "5"
+                    "value": "8"
                 },
                 {
                     "name": "passion",
                     "category": "personality traits",
-                    "value": "5"
+                    "value": "1"
                 },
                 {
                     "name": "leadership",
                     "category": "personality traits",
-                    "value": "5"
+                    "value": "11"
                 },
                 {
                     "name": "decision-making",
                     "category": "personality traits",
-                    "value": "5"
+                    "value": "1"
                 },
                 {
                     "name": "transparency",
                     "category": "personality traits",
-                    "value": "5"
+                    "value": "1"
                 },
                 {
                     "name": "loyalty",
                     "category": "personality traits",
-                    "value": "5"
+                    "value": "1"
                 },
                 {
                     "name": "storytelling",
                     "category": "personality traits",
-                    "value": "5"
+                    "value": "2"
                 },
                 {
                     "name": "infinite-learning",
                     "category": "personality traits",
-                    "value": "5"
+                    "value": "2"
                 },
                 {
                     "name": "productivity",
                     "category": "personality traits",
-                    "value": "5"
+                    "value": "2"
                 },
                 {
                     "name": "imperfect-is-perfect",
                     "category": "personality traits",
-                    "value": "5"
+                    "value": "1"
                 },
                 {
                     "name": "safety",
                     "category": "personality traits",
-                    "value": "5"
+                    "value": "1"
                 },
                 {
                     "name": "speed",
                     "category": "personality traits",
-                    "value": "5"
+                    "value": "1"
                 }
             ]
         },
@@ -747,62 +747,62 @@
                 {
                     "name": "digital-transformation",
                     "category": "technology",
-                    "value": "5"
+                    "value": "4"
                 },
                 {
                     "name": "remote-work",
                     "category": "technology",
-                    "value": "5"
+                    "value": "4"
                 },
                 {
                     "name": "bitcoin",
                     "category": "technology",
-                    "value": "5"
+                    "value": "1"
                 },
                 {
                     "name": "blockchain",
                     "category": "technology",
-                    "value": "5"
+                    "value": "1"
                 },
                 {
                     "name": "artificial-intelligence",
                     "category": "technology",
-                    "value": "5"
+                    "value": "1"
                 },
                 {
                     "name": "cloud-computing",
                     "category": "technology",
-                    "value": "5"
+                    "value": "1"
                 },
                 {
                     "name": "podcast",
                     "category": "technology",
-                    "value": "5"
+                    "value": "2"
                 },
                 {
                     "name": "open-source",
                     "category": "technology",
-                    "value": "5"
+                    "value": "3"
                 },
                 {
                     "name": "ride-sharing",
                     "category": "technology",
-                    "value": "5"
+                    "value": "1"
                 },
                 {
                     "name": "crypto",
                     "category": "technology",
-                    "value": "5"
+                    "value": "1"
                 },
                 {
                     "name": "tech",
                     "category": "technology",
-                    "value": "5"
+                    "value": "1"
                 },
                 {
                     "name": "social-media",
                     "category": "technology",
-                    "value": "5"
+                    "value": "3"
                 }
             ]
         }
